@@ -1,2 +1,3 @@
 source "https://rubygems.org"
-gemspec
+gem "minimal-mistakes-jekll"
+gem "github-pages", group: :jekll_plugins
